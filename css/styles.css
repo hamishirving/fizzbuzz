@@ -1,0 +1,9 @@
+body {
+	width: 800px;
+	margin: 40px auto;
+	font-family: 'Fira Mono';
+	color: #32FA3A;
+	font-size: 18px;
+	background-color: #303030;
+	white-space: pre-wrap
+}
